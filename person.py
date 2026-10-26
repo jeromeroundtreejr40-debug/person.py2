@@ -17,3 +17,7 @@ print(person_2)
 
 print(person_1.can_vote())
 print(person_2.can_vote())
+John is 17 years old and is from Canada.
+Maria is 25 years old and is from Spain.
+False
+True
